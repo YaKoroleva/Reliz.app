@@ -1,0 +1,83 @@
+.Profile {
+	display: block;
+	
+	color: #F2F2F2;
+  min-height: 100vh;
+	/* background-color: aqua; */
+
+}
+
+.header{
+	top: 0;
+	position: fixed;
+	display: block;
+	width: 598px;
+	
+	background-color: rgb(0, 0, 0);
+
+	height: 80px;
+	border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: #3A444C;
+	
+}
+
+.title{
+	
+	color: #F2F2F2;
+	font-size: 30px;
+	letter-spacing: -1.35px;
+	font-weight:bold;
+
+	text-align: right;
+	line-height: 80px;
+	padding-right: 25px;
+}
+
+.info {
+	padding: 20% 0 0 6%;
+	display: flex;
+	
+}
+
+.avatar {
+
+	height: 130px;
+	width: 130px;
+	background-color: #D0D2D4;
+}
+
+
+.nameJob {
+
+	display: flex;
+	flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+	margin-left: 30px;
+
+
+}
+
+
+.userName {
+  display: block;
+  color: rgb(255, 255, 255);
+	font-size: 20px;
+	padding-bottom: 20px;
+	letter-spacing: 0;
+	color: #F2F2F2;
+	
+
+}
+
+.jobTitle{
+ display: block;
+	color: rgb(255, 255, 255);
+	font-size: 16px;
+	letter-spacing: 0.15;
+	color: #F2F2F2;
+	
+}
+

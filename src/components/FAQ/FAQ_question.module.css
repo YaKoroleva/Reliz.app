@@ -1,0 +1,53 @@
+.FAQ {
+	display: block;
+	position: relative;
+	color: #F2F2F2;
+  min-height: 100vh;	
+
+}
+
+
+
+
+.wrapper{
+
+	padding:  50px 45px 50px 45px;
+
+	border-width:  0px 0px 1px 0px;
+  border-style: solid;
+  border-color: #3A444C ;
+  border-width: outset
+	
+	
+}
+
+.question {
+	font-size: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+.button {
+	background-color:#FFB800 ;
+	width: 110px;
+	height: 30px;
+  float: right;
+	border-radius: 4px ;
+
+
+
+}
+
+
+.question_wrapper {
+	height: 80px;
+	border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: #3A444C;
+}
+
+.svg {
+	display: inline;
+	margin-right: 10px;
+}

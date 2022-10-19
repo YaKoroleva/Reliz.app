@@ -1,0 +1,40 @@
+.button {
+
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	direction: none;
+
+	min-width: 195px;
+	min-height: 36px;
+	opacity: 1;
+	white-space: nowrap;
+	background: #FFB800;
+	border: none;
+	border-radius: 4px;
+	margin: 0;
+
+	color: rgb(0, 0, 0);
+	font-size: 14px;
+	/* добавить */
+
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+
+
+
+}
+
+.svg {
+	height: 21px;
+	width: auto;
+	color: blue;
+	
+	}
+
+.link {
+	text-decoration: none;
+}

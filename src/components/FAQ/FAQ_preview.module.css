@@ -1,0 +1,85 @@
+.FAQ {
+	display: block;
+	position: relative;
+	color: #F2F2F2;
+  min-height: 100vh;
+	margin-top: 10%;
+}
+
+.header{
+	top: 0;
+	position: fixed;
+	display: block;
+	width: 598px;
+	
+	background-color: rgb(0, 0, 0);
+
+	height: 80px;
+	border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: #3A444C;
+	
+}
+
+.title{
+	
+	color: #F2F2F2;
+	font-size: 30px;
+	letter-spacing: -1.35px;
+	font-weight:bold;
+
+	text-align: right;
+	line-height: 80px;
+	padding-right: 25px;
+}
+
+
+
+.wrapper {
+	padding-top: 3%;
+}
+
+
+.question_wrapper{
+	height: 100vh;
+	overflow-y: auto;
+	scroll-behavior: smooth;
+}
+
+
+.button{
+ font-size: 20px ;
+ line-height: 50px;
+ bottom: 0;
+ position: fixed;
+ color: #000000;
+ margin: 0 auto;
+ background-color: #FFB800;
+ width: 598px;
+} 
+
+
+.btn_txt {
+	text-align: center
+}
+
+
+
+
+::-webkit-scrollbar {
+	width: 8px; /* ширина для вертикального скролла */
+	
+	background-color: #1d1d1d;
+}
+
+/* ползунок скроллбара */
+
+::-webkit-scrollbar-thumb {
+	background-color: #313131;
+	border-radius: 10px;
+	/* box-shadow: inset 1px 1px 10px #f3faf7; */
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #505050;
+}

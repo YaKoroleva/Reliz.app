@@ -1,0 +1,22 @@
+.button {
+	display: flex;
+	align-items: center;
+
+	margin-left: auto;
+	color: #FFB800;
+	font-size: 14px;
+	line-height:21px;
+
+	
+}
+
+
+.txt{
+	margin-right: 15px;
+}
+
+
+.svg {
+	display: inline;
+	margin-left: 10px;
+}

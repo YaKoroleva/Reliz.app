@@ -1,0 +1,82 @@
+
+.wrapper {
+	margin: 0% 6% 0% 6%;
+	padding-top: 15%;
+	padding-bottom: 10%;
+} 
+
+.answer_wrapper{
+	line-height: 1.8;
+	margin-bottom: 80px;
+}
+
+
+.answer{
+	display: inline;
+	font-size: 20px;
+	background-color: #FFB800;
+	color: black;
+	line-height: 0;
+}
+
+
+
+.wrap {
+	margin-left: 20px;
+	margin-bottom: 10%;
+
+}
+
+
+.line {
+	border-width: 0 0 0 4px ;
+	border-style: solid;
+	border-color: #FFB800;
+	
+}
+
+.option {
+	margin-bottom: 10%;
+}
+
+
+
+.frame {
+	display: inline;
+	color:  #FFB800;
+	font-weight: 700;
+
+}
+
+
+
+
+.txt {
+	margin-bottom: 2% ;
+}
+
+.descrip{
+	color:  #FFB800;
+	line-height: 1.6;
+}
+
+li a {
+	color: #FFB800;
+}
+
+.img{
+	display: inline-block;
+	width:50%;
+
+} 
+
+.creo_folder {
+	display: inline-block;
+	width: 524px;
+}
+
+.sample {
+	display: inline-block;
+	width: 420px;
+}
+
